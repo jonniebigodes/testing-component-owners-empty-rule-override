@@ -52,4 +52,6 @@ Components/Form/Input/Default              joaocontadesenvolvimento@gmail.com
 ##################################################
 
 Components/Footer/*
-Components/DatePicker/* 
+Components/DatePicker/*
+Components/Button/*
+Components/Avatar/*
